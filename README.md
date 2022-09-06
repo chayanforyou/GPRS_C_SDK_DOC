@@ -10,7 +10,7 @@ Code of CSDK: [GPRS_C_SDK](https://github.com/chayanforyou/GPRS_C_SDK)
 
 Source code of documention: [GPRS_C_SDK_DOC](https://github.com/chayanforyou/GPRS_C_SDK_DOC)
 
-[Click Me To Read Online](https://github.com/chayanforyou/GPRS_C_SDK_DOC/en) ( [中文](https://github.com/chayanforyou/GPRS_C_SDK_DOC/zh) )
+[Click Me To Read Online](https://chayanforyou.github.io/GPRS_C_SDK_DOC/en) ( [中文](https://chayanforyou.github.io/GPRS_C_SDK_DOC/zh) )
 
 
 
